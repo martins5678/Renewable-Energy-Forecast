@@ -3,7 +3,7 @@
 
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/banner.jpg)](https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1459)
+[![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/banner.jpg)](https://unsplash.com/photos/solar-panels-on-green-field-513dBrMJ_5w)
 
 
 The Spanish government is contemplating an expansion of its renewable energy sources to meet the increasing demands of the country's electricity infrastructure. Electricity, as an essential amenity, is pivotal for fostering a meaningful standard of living and enhancing business growth. This project explores the shortfall between energy generated through fossil fuels and diverse renewable sources in Spain. The research aims to yield actionable, data-driven insights empowering the government to plan and manage energy supply efficiently. This, in turn, ensures a reliable and sustainable energy infrastructure while curbing carbon emissions.
@@ -49,8 +49,11 @@ Among the regression models trained, including Linear Regression, Decision Trees
 Through comprehensive data exploration and analysis, some of the hidden patterns emerged:
 
 * Daily Variation: A higher shortfall is observed between 9 and 12 hours, corresponding to office hours and periods of increased domestic gadget usage for house chores. Addressing this peak demand period is imperative for the government.
+* ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_hour.jpg)
 * Weekly Variation: Weekdays exhibit a higher load shortfall than weekends, emphasizing electricity's critical role in daily work routines.
+* ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_day.jpg)
 * Seasonal Variation: The second half of the year, corresponding to summer and winter, witnesses a high shortfall. This signifies increased electricity consumption for activities such as increased use of cooling appliances.
+* ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_month.jpg)
 
 
 
@@ -66,11 +69,11 @@ To enhance renewable energy production in Spain, we propose the following recomm
 ## Acknowledgements
 
 My Shout out goes to my team members for their contributions: 
-* Toluwatise Onadipe
-* Grace Quinn
-* Kennedy Chege
-* Chidinma Madukife
-
+* Jacinta Muindi
+* Abiodun Adeagbo
+* Seye Tare Ganranwei
+* Pere Ganranwei
+* Job Onose Okhueleigbe
 
 
 Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
