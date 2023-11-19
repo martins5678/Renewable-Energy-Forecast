@@ -49,11 +49,11 @@ Among the regression models trained, including Linear Regression, Decision Trees
 Through comprehensive data exploration and analysis, some of the hidden patterns emerged:
 
 * Daily Variation: A higher shortfall is observed between 9 and 12 hours, corresponding to office hours and periods of increased domestic gadget usage for house chores. Addressing this peak demand period is imperative for the government.
-* ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_hour.jpg)
+ ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_hour.jpg)
 * Weekly Variation: Weekdays exhibit a higher load shortfall than weekends, emphasizing electricity's critical role in daily work routines.
-* ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_day.jpg)
+ ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_day.jpg)
 * Seasonal Variation: The second half of the year, corresponding to summer and winter, witnesses a high shortfall. This signifies increased electricity consumption for activities such as increased use of cooling appliances.
-* ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_month.jpg)
+ ![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/load_shortfall_month.jpg)
 
 
 
