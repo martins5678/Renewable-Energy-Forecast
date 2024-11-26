@@ -1,9 +1,9 @@
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ridwanbankole.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martins5678.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-i-434184228)
 
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/ridwanbankole/Renewable-Energy-Forecast/main/img/banner.jpg)](https://unsplash.com/photos/solar-panels-on-green-field-513dBrMJ_5w)
+[![Banner](https://raw.githubusercontent.com/martins5678/Renewable-Energy-Forecast/main/img/banner.jpg)](https://unsplash.com/photos/solar-panels-on-green-field-513dBrMJ_5w)
 
 
 The Spanish government is contemplating an expansion of its renewable energy sources to meet the increasing demands of the country's electricity infrastructure. Electricity, as an essential amenity, is pivotal for fostering a meaningful standard of living and enhancing business growth. This project explores the shortfall between energy generated through fossil fuels and diverse renewable sources in Spain. The research aims to yield actionable, data-driven insights empowering the government to plan and manage energy supply efficiently. This, in turn, ensures a reliable and sustainable energy infrastructure while curbing carbon emissions.
@@ -49,11 +49,11 @@ Among the regression models trained, including Linear Regression, Decision Trees
 Through comprehensive data exploration and analysis, some of the hidden patterns emerged:
 
 * Daily Variation: A higher shortfall is observed between 9 and 12 hours, corresponding to office hours and periods of increased domestic gadget usage for house chores. Addressing this peak demand period is imperative for the government.
- ![Banner](https://raw.githubusercontent.com/ridwanbankole/Renewable-Energy-Forecast/main/img/load_shortfall_hour.jpg)
+ ![Banner](https://raw.githubusercontent.com/martins5678/Renewable-Energy-Forecast/main/img/load_shortfall_hour.jpg)
 * Weekly Variation: Weekdays exhibit a higher load shortfall than weekends, emphasizing electricity's critical role in daily work routines.
- ![Banner](https://raw.githubusercontent.com/ridwanbankole/Renewable-Energy-Forecast/main/img/load_shortfall_day.jpg)
+ ![Banner](https://raw.githubusercontent.com/martins5678/Renewable-Energy-Forecast/main/img/load_shortfall_day.jpg)
 * Seasonal Variation: The second half of the year, corresponding to summer and winter, witnesses a high shortfall. This signifies increased electricity consumption for activities such as increased use of cooling appliances.
- ![Banner](https://raw.githubusercontent.com/ridwanbankole/Renewable-Energy-Forecast/main/img/load_shortfall_month.jpg)
+ ![Banner](https://raw.githubusercontent.com/martins5678/Renewable-Energy-Forecast/main/img/load_shortfall_month.jpg)
 
 
 
@@ -76,5 +76,5 @@ My Shout out goes to my team members for their contributions:
 * Job Onose Okhueleigbe
 
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://ridwanbankole.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://martins5678.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
 
