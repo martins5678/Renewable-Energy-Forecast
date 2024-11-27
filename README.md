@@ -1,5 +1,5 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martins5678.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-i-434184228)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-izekor)
 
 
 ## Introduction
@@ -22,7 +22,7 @@ We developed a robust regression model capable of predicting the shortfall betwe
 
 ## Skills and Tools Used
 * Python
-* Machine learning packages (Scikit-learn and nltk)
+* Machine learning packages
 * Project Management: Trello Board
 * Data Cleaning
 * Data Exploration
